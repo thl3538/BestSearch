@@ -1,0 +1,9 @@
+.search-box {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 0;
+}
+.search-item {
+  background-color: #fff;
+  padding: 10px;
+}

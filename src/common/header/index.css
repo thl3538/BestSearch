@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  align-items: center;
+  padding: 16px;
+  border: 1px solid #eaeaea;
+}
+.search-input {
+  width: 600px;
+  
+}
+.mr-10 {
+  margin-right: 10px;
+}
+.search-icon-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #eaeaea;
+  width: 60px;
+  height: 40px;
+  border-radius: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
